@@ -15,5 +15,7 @@ This is a simple C# console application that monitors a specified directory for 
 
 ```bash
 git clone https://github.com/your-username/PptxtoPdf.git
-2. Get your Api Secret.
-  https://www.convertapi.com/
+```
+2. Get your Api Secret
+  ```bash 
+https://www.convertapi.com/
